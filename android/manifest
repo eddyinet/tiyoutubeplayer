@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: tiyoutubeplayer
+author: Eddy Ahmed
+license: Specify your license
+copyright: Copyright (c) 2025 by Your Company
+
+# these should not be edited
+name: tiyoutubeplayer
+moduleid: com.example.tiyoutubeplayer
+guid: ae22151a-cea8-40af-9075-9bdee9c3c5b4
+platform: android
+minsdk: 12.5.1.GA

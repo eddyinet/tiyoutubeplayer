@@ -1,0 +1,24 @@
+
+1/15/2025, 12:34:11 PM
+
+Operating System
+  Name                        = macOS
+  Version                     = 15.1.1
+  Architecture                = 64-bit
+  # CPUs                      = 8
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 22.2.0
+  npm Version                 = 10.7.0
+
+Titanium CLI
+  CLI Version                 = 7.1.5
+
+Titanium SDK
+  SDK Version                 = 12.5.1.GA
+  SDK Path                    = /Users/eddy/Library/Application Support/Titanium/mobilesdk/osx/12.5.1.GA
+  Target Platform             = android
+
+Command
+  /opt/homebrew/Cellar/node/22.2.0/bin/node /opt/homebrew/bin/ti clean
