@@ -1,6 +1,6 @@
 # Titanium SDK Module Project
 
-This is a skeleton Titanium Mobile Mobile module project.
+A Titanium Android Module that wraps PierfrancescoSoffritti/android-youtube-player. This code was created using Claude.AI. See Creating A Titanium Module using Claude.pdf for the prompts used.
 
 ## Module Naming
 
